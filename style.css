@@ -1,0 +1,37 @@
+body{
+  background-color: #41aea9;
+
+}
+input{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 250px;
+  height: 35px;
+  border-radius: 5px;
+  border-width: thin;
+  font-weight: bold;
+  font-size: 17px;
+}
+button{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 15px;
+  width: 150px;
+  height: 30px;
+  border-radius: 12px;
+  color: #213e3b;
+}
+
+h2{
+  text-align: center;
+  font-family:monospace;
+  color: #212121;
+}
+
+.center-text{
+margin-top: 20%;
+}
